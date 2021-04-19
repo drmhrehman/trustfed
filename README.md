@@ -3,9 +3,6 @@ This repository presents a blockchain-based framework, TrustFed, for Cross-Devic
 
 **Citation**
 ---
-Muhammad Habib ur Rehman, Ahmed Mukhtar Dirir, Khaled Salah, Ernesto Damiani, Davor Svetinovic, "TrustFed: A Framework for Fair and Trustworthy Cross-Device Federated Learning in IIoT", IEEE Transactions on Industrial Informatics, April 2021.
-
-
 ```
-
+Muhammad Habib ur Rehman, Ahmed Mukhtar Dirir, Khaled Salah, Ernesto Damiani, Davor Svetinovic, "TrustFed: A Framework for Fair and Trustworthy Cross-Device Federated Learning in IIoT", IEEE Transactions on Industrial Informatics, April 2021.
 ```
